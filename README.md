@@ -57,3 +57,12 @@ npm i turbo@latest -D
 ```bash
 npm i @storybook/storybook-deployer --save-dev
 ```
+### Changesets
+```bash
+npm i @changesets/cli -D
+npx changeset init
+npm login
+npm run changeset
+npm run version-packages
+npm run release
+```
