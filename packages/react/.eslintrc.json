@@ -1,0 +1,3 @@
+{
+  "extends": "@ignite-go-ui/eslint-config"
+}
